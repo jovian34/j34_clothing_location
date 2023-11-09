@@ -31,7 +31,7 @@ October 12th, 2023
 
 ## Sources
 
-clickstream data for online shopping. (2019). UCI Machine Learning Repository. https://doi.org/10.24432/C5QK7X 
-Ecwid. (N.D.) Merchandising 101: Everything You Need to Know About Product Merchandising. https://www.ecwid.com/blog/all-about-product-merchandising.html 
-Indarjo, P. (2020). Meet the Engine of A/B Testing: Chi Square Test. Medium. https://medium.com/bukalapak-data/meet-the-engine-of-a-b-testing-chi-square-test-30e8a8ab44c5
+1. clickstream data for online shopping. (2019). UCI Machine Learning Repository. https://doi.org/10.24432/C5QK7X 
+1. Ecwid. (N.D.) Merchandising 101: Everything You Need to Know About Product Merchandising. https://www.ecwid.com/blog/all-about-product-merchandising.html 
+1. Indarjo, P. (2020). Meet the Engine of A/B Testing: Chi Square Test. Medium. https://medium.com/bukalapak-data/meet-the-engine-of-a-b-testing-chi-square-test-30e8a8ab44c5
 
